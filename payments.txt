@@ -1,1 +1,2 @@
-users are allowed to pay money for subcriptiongit 
+users are allowed to pay money for subcription
+subscription should be auto renewed every month
